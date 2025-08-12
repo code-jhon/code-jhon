@@ -85,9 +85,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=code-jhon&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/code-jhon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-jhon" alt="GitHub streak" />
-  </a>
-  <a href="https://github.com/code-jhon">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-jhon&layout=compact" alt="Top languages" />
   </a>
 </p>
